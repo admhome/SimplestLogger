@@ -1,0 +1,2 @@
+# SimplestLogger
+Simplest PHP Logger
