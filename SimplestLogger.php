@@ -2,6 +2,8 @@
 
 /**
  * SimplestLogger
+ * 
+ * @author admhome
  */
 class SimplestLogger
 {
